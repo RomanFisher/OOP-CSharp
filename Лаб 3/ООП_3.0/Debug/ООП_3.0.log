@@ -1,0 +1,5 @@
+﻿  ООП_3.0.cpp
+D:\Visual Studio2019\3 курс\ООП_3.0\ООП_3.0.cpp(29,15): warning C4584: Zalik: базовый класс "Vuprobuvannya" уже является базовым классом для "Isput"
+D:\Visual Studio2019\3 курс\ООП_3.0\ООП_3.0.cpp(7): message : см. объявление "Vuprobuvannya"
+D:\Visual Studio2019\3 курс\ООП_3.0\ООП_3.0.cpp(19): message : см. объявление "Isput"
+  ООП_3.0.vcxproj -> D:\Visual Studio2019\3 курс\ООП_3.0\Debug\ООП_3.0.exe

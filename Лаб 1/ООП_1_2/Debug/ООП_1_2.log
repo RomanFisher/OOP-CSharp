@@ -1,0 +1,3 @@
+﻿  ООП_1_2.cpp
+D:\Visual Studio2019\3 курс\ООП_1_2\ООП_1_2.cpp(27,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ООП_1_2.vcxproj -> D:\Visual Studio2019\3 курс\ООП_1_2\Debug\ООП_1_2.exe

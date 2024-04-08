@@ -1,0 +1,2 @@
+D:\Visual Studio2019\3 курс\ООП_7.1\Debug\ООП_7.1.exe
+D:\Visual Studio2019\3 курс\ООП_7.1\Debug\ООП_7.1.pdb
